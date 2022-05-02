@@ -1,8 +1,12 @@
+
 # Load Balancer Demo
 
 Demo using nginx as a reverse proxy load balancing accross 2 web services.
 Each of the services, and nginx itself, run inside docker containers, and 
-are controlled using docker-compose.
+are controlled using docker-compose. 
+
+This repository was used for demonstration purposes during my bachelor's degree 
+in Technical University of Sofia.
 
 To start:
 
